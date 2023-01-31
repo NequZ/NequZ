@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Niclas</h1>
 <h3 align="center">A passionate Full-Stack Webdeveloper from Germany</h3>
 
-- 🔭 I’m currently working on **Different Webshops**
+- 🔭 I’m currently working on **NequZ-WI**
 
 - 🌱 I’m currently learning **PHP, HTML, JS**
 
